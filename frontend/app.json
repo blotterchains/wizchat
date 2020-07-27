@@ -1,0 +1,17 @@
+
+{
+  "expo": {
+   "name": "فنی سمنان",
+   "icon": "./assets/icon.png",
+   "version": "1.0.0",
+   "slug": "fanni-semnan",
+   "ios": {
+     "bundleIdentifier": "com.fannisemnan.rezadivsalar",
+     "buildNumber": "1.0.0"
+   },
+   "android": {
+     "package": "com.fannisemnan.rezadivsalar",
+     "versionCode": 1
+   }
+  }
+}

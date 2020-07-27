@@ -1,0 +1,1 @@
+export const api="http://wizif.pythonanywhere.com/"
