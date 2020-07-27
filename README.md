@@ -1,5 +1,5 @@
 fanniSemnanProject<br/>
-a project made with myhands<br/>
+a small project made for more centarility and limited group only chat<br/>
 the idea is where my classmates have problems to get news from teacher and i made it to have good centarility for my uni <br/>
 features:<br/>
 -more power to manage school versuse whatsapp and others<br/>
