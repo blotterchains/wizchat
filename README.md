@@ -5,3 +5,6 @@ features:<br/>
 -more power to manage school versuse whatsapp and others<br/>
 -teachers can chat with students directly and share their ideas<br/>
 -best way to Q&A<br/>
+***to open frontend you need expo-cli from npm global install***
+***you need to install flask from pip on you pc before run the backend***
+
